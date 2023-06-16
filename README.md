@@ -8,7 +8,7 @@ This is the homepage for Horiseon.
 
 This is the final result of the website.
 
-<img src=".01-html-css-git-homework-demo.png">
+<img src="./images/Challenge%201.png">
 
 ## Link to Website
 
