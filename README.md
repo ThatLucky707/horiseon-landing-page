@@ -8,7 +8,7 @@ This is the homepage for Horiseon.
 
 This is the final result of the website.
 
-<img src=".01-html-css-git-homework-demo.png>
+<img src=".01-html-css-git-homework-demo.png">
 
 ## Link to Website
 
@@ -16,6 +16,7 @@ Here is the link for the website.
 
 Link:
 
+https://thatlucky707.github.io/horiseon-landing-page/
 
 ## Installation
 
